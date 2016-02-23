@@ -1,0 +1,8 @@
+[package]
+name = "doom"
+version = "0.1.0"
+authors = ["Niilo Jaba <niilo@umbra3d.com>"]
+
+[dependencies]
+sdl2 = "0.14.0"
+byteorder = "0.4.2"
